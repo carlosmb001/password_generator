@@ -14,6 +14,11 @@ const characters = [
   "(", ")","-", "_", "+", "=", "|", "{", "}", "~",
   ":", ";","<", ">", ",", ".", "/", "?"
 ];
+console.log(characters.length); // check the array length
+
+let input = prompt("How long do you want the password to be?")
+
+
 
 console.log(characters.length);
 
