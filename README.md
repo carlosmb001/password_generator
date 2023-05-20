@@ -2,32 +2,27 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-
+As a company that wants to make sure that our information is secure, we wanted a password generator for our employees to have a secure password that meets a criteria of 8-128 characters. 
+Created this program makes it easy for the employees to generate a new password for when ever they need one. 
+Throughout the process of developing the algorithm for this, I learned how to work better with functions, and how variables are in scope or global scope. As well as understanding how event listeners work.
 ## Installation
 
 NA
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Once you hit the generate button, the program will prompt you for questions regarding the password that you want to generate.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+- Choose a length of at least 8 characters and no more than 128 characters
+- Do you want to use numbers? (y/n)
+- Do you want to use lowercase letters? (y/n)
+- Do you want to use uppercase letters? (y/n)
+- Do you want to use special characters? (y/n)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+You will be instructed to answer the questions in a Y or N format.
+Than the program will add into the specific categories into the password and generate a password for you at the end following the criteria.
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+[Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[W3Schools Functions](https://www.w3schools.com/js/js_functions.asp)
