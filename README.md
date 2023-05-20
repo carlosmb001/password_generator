@@ -24,5 +24,5 @@ Than the program will add into the specific categories into the password and gen
 
 ## Credits
 
-[Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[W3Schools Functions](https://www.w3schools.com/js/js_functions.asp)
+[^1]:[Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[^2]:[W3Schools Functions](https://www.w3schools.com/js/js_functions.asp)
