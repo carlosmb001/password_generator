@@ -22,7 +22,9 @@ Once you hit the generate button, the program will prompt you for questions rega
 You will be instructed to answer the questions in a Y or N format.
 Than the program will add into the specific categories into the password and generate a password for you at the end following the criteria.
 
+![password generator app with password](assests/Screenshot%202023-05-20%20at%2012.42.14%20PM.png)
+![password generator with prompts](assests/Screenshot%202023-05-20%20at%2012.42.30%20PM.png)
 ## Credits
 
-[^1]: [Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[^2]: [W3Schools Functions](https://www.w3schools.com/js/js_functions.asp)
+1. [Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+2. [W3Schools Functions](https://www.w3schools.com/js/js_functions.asp)
